@@ -1,8 +1,6 @@
 # Sales Analysis Dashboard
 ![Screenshot 2025-03-16 193618](https://github.com/user-attachments/assets/85c818d9-c2be-46c6-a05b-da3d3c5beeca)
 
-![Sales Dashboard Preview]([https://drive.google.com/file/d/12KDXhyUVTjljdROm-ERxaZ-jWs7W9Qwe/view?usp=drive_link](https://drive.google.com/file/d/12KDXhyUVTjljdROm-ERxaZ-jWs7W9Qwe/view?usp=drive_link)
-
 ## Project Overview
 A comprehensive data visualization dashboard for analyzing sales performance metrics. This interactive business intelligence tool provides multiple views of sales data across different dimensions including occasions, product categories, geographic locations, and time periods.
 
